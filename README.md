@@ -21,11 +21,13 @@ This project implements a complete ETL (Extract, Transform, Load) pipeline to fe
 
 
 📊 Output
+
 Weather data stored in weather.csv
 
 Processed results stored in MySQL under a specified schema/table
 
 📌 Use Cases
+
 Real-time weather monitoring
 
 Data analysis and visualization
