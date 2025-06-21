@@ -14,9 +14,13 @@ This project implements a complete ETL (Extract, Transform, Load) pipeline to fe
 ## 📁 Project Structure
 
 ├── fetch_weather.py # Fetches real-time weather data from API
+
 ├── load_to_mysql.py # Loads processed data into MySQL database
+
 ├── main.py # Orchestrates the entire ETL workflow
+
 ├── spark_weather.py # Applies transformations using PySpark
+
 ├── weather.csv # Sample output/intermediate data
 
 
